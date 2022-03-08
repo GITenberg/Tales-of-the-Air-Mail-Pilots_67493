@@ -1,0 +1,24 @@
+_repo: Tales-of-the-Air-Mail-Pilots_67493
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McConnell, Burt M.
+    gutenberg_agent_id: '54293'
+    url: http://www.gutenberg.org/2009/agents/54293
+description: ''
+gutenberg_issued: '2022-02-24'
+identifiers:
+  gutenberg: '67493'
+language: en
+pgterms:marc905: 20220219180040mcconnell
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The S. S. McClure Company,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tales of the Air Mail Pilots
+url: http://www.gutenberg.org/ebooks/67493
