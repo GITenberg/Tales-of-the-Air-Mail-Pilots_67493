@@ -1,11 +1,16 @@
 _repo: Tales-of-the-Air-Mail-Pilots_67493
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67493-h/images/cover.jpg
 creator:
   author:
     agent_name: McConnell, Burt M.
     gutenberg_agent_id: '54293'
     url: http://www.gutenberg.org/2009/agents/54293
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67493#Tales-of-the-Air-Mail-Pilots
 gutenberg_issued: '2022-02-24'
 identifiers:
   gutenberg: '67493'
